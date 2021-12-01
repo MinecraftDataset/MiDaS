@@ -1,5 +1,5 @@
 # MiDaS
-MiDaS is a large-scale dataset of Minecraft images totalling 36000 across 60 block classes.
+MiDaS is a large-scale dataset of Minecraft images totalling 36000 across 60 block-level classes.
 
 <b>ACCESS THE FULL DATASET HERE</b>: https://1drv.ms/u/s!AiqkpWVyx5Hig8phRb_3g7zd_3j3Uw?e=TsqfhD
 
