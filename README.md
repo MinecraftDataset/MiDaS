@@ -5,3 +5,5 @@ ACCESS THE FULL DATASET HERE: https://1drv.ms/u/s!AiqkpWVyx5Hig8phRb_3g7zd_3j3Uw
 
 <!-- ![alt text](https://github.com/MinecraftDataset/MiDaS/edit/main/Minecraft_Blocks_and_Biomes.png?raw=true)
  -->
+
+![Screenshot](Minecraft_Blocks_and_Biomes.png)
