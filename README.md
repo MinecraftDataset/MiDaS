@@ -6,4 +6,4 @@ MiDaS is a large-scale dataset of Minecraft images totalling 36000 across 60 blo
 <!-- ![alt text](https://github.com/MinecraftDataset/MiDaS/edit/main/Minecraft_Blocks_and_Biomes.png?raw=true)
  -->
 
-![Screenshot](Minecraft_Blocks_and_Biomes.png)
+![Screenshot](MiDaS-60_Blocks_and_Biomes.png)
